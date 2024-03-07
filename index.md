@@ -14,3 +14,7 @@ Initialized empty Git repository in ....
 ``` javascript
 var myVar = "Hello World!";
 ```
+This is your to do list:
+- [X] Turn on Github Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
